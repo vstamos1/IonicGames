@@ -1,0 +1,8 @@
+{
+  "name": "funGames",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ff553df9"
+}
